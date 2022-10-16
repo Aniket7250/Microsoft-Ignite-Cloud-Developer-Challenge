@@ -35,3 +35,17 @@
 ![image](https://user-images.githubusercontent.com/56511829/196024188-13bdbfee-98a2-490f-aaec-8d518e2bb2ed.png)
 
 ## Identify technical debt
+![image](https://user-images.githubusercontent.com/56511829/196026716-47ddc6ba-d234-4bc8-92e8-aab3ea152d3b.png)
+
+## Explore Git hooks
+![image](https://user-images.githubusercontent.com/56511829/196027685-bd03706c-ee89-41ec-9ed7-f8d324b9b0c3.png)
+
+## Plan foster inner source
+![image](https://user-images.githubusercontent.com/56511829/196028447-8b9cdf5f-b899-491b-b6cb-b753b1febe70.png)
+
+## Manage Git repositories
+![image](https://user-images.githubusercontent.com/56511829/196029016-dc55f2b2-2779-4a42-84ba-30bee9ba1d47.png)
+
+## Explore Azure Pipelines
+![image](https://user-images.githubusercontent.com/56511829/196029495-7ddc5ffe-5d1c-4377-b3a5-456f25b55134.png)
+
