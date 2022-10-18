@@ -49,3 +49,17 @@
 ## Explore Azure Pipelines
 ![image](https://user-images.githubusercontent.com/56511829/196029495-7ddc5ffe-5d1c-4377-b3a5-456f25b55134.png)
 
+## Manage Azure Pipeline agents and pools
+![image](https://user-images.githubusercontent.com/56511829/196397459-120969c8-546b-4dfb-b915-251899115f71.png)
+
+## Describe pipelines and concurrency
+![image](https://user-images.githubusercontent.com/56511829/196400393-ee47d720-a6b8-4fc8-a164-b03829f1debb.png)
+
+## Explore continuous integration
+![image](https://user-images.githubusercontent.com/56511829/196404383-53e3a225-9bba-4b27-94aa-9d908e897c8c.png)
+
+
+
+
+
+
