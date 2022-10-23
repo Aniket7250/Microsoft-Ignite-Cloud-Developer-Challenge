@@ -58,7 +58,57 @@
 ## Explore continuous integration
 ![image](https://user-images.githubusercontent.com/56511829/196404383-53e3a225-9bba-4b27-94aa-9d908e897c8c.png)
 
+## Implement a pipeline strategy
+![image](https://user-images.githubusercontent.com/56511829/197374444-4efe221e-a7f1-4b6b-8161-8902c4e6ccad.png)
 
+## Integrate with Azure Pipelines
+![image](https://user-images.githubusercontent.com/56511829/197375256-592f2732-453e-4231-a41a-6bd9c32c5426.png)
+
+## Introduction to GitHub Actions
+![image](https://user-images.githubusercontent.com/56511829/197376034-c8496263-f062-48b1-a434-daa570d7c10a.png)
+
+## Learn continuous integration with GitHub Actions
+![image](https://user-images.githubusercontent.com/56511829/197376496-a7291aaf-a3ea-4846-b458-cb7c19743d74.png)
+
+## Design a container build strategy
+![image](https://user-images.githubusercontent.com/56511829/197376836-653a2eec-5a39-43f3-8c0c-dfc497c6d9d9.png)
+
+## Introduction to continuous delivery
+![image](https://user-images.githubusercontent.com/56511829/197377079-721c6827-3743-4b02-bc42-76a9e00f6e6a.png)
+
+## Create a release pipeline
+![image](https://user-images.githubusercontent.com/56511829/197377608-a8e9cab9-db8a-4d9b-94a2-77ed36dae353.png)
+
+## Explore release recommendations
+![image](https://user-images.githubusercontent.com/56511829/197377783-ebb798cd-fbae-460f-ac25-c2d43b7fcf62.png)
+
+## Provision and test environments
+![image](https://user-images.githubusercontent.com/56511829/197377969-ea381d9c-ab6c-4bbf-baa0-b4c3ed575be2.png)
+
+## Manage and modularize tasks and templates
+![image](https://user-images.githubusercontent.com/56511829/197378054-72c1e21c-88c4-4102-96b4-454345117ce6.png)
+
+## Automate inspection of health
+![image](https://user-images.githubusercontent.com/56511829/197378179-03e2b3c2-b84c-40ba-85d2-421236dbbf1d.png)
+
+## Introduction to Secure DevOps
+![image](https://user-images.githubusercontent.com/56511829/197378381-9b60eb82-9f9f-4851-924e-4a7bef6221d6.png)
+![image](https://user-images.githubusercontent.com/56511829/197378392-c1f8e39d-9413-46b4-bcc1-21b576400f1e.png)
+
+## Implement open-source software
+![image](https://user-images.githubusercontent.com/56511829/197378585-48288160-07fe-4b7c-bae0-e8bb9f47b773.png)
+
+## Software Composition Analysis
+![image](https://user-images.githubusercontent.com/56511829/197378813-25dddea1-9c43-4055-9200-7f2ecd99801c.png)
+
+## Static analyzers
+![image](https://user-images.githubusercontent.com/56511829/197378912-fdbf017e-e459-43da-bf1f-932fa04b6d46.png)
+
+## OWASP and Dynamic Analyzers
+![image](https://user-images.githubusercontent.com/56511829/197379070-5a876dc3-237c-44eb-8133-a22e09dc2c86.png)
+
+## Security Monitoring and Governance
+![image](https://user-images.githubusercontent.com/56511829/197379341-ee9e4f8d-c432-4d37-92e7-823d5f9c6044.png)
 
 
 
